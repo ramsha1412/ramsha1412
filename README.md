@@ -1,16 +1,20 @@
-## Hi there 👋
+Hey, I'm Ramsha 👋
 
-<!--
-**ramsha1412/ramsha1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Learning & building things with code
 
-Here are some ideas to get you started:
+I'm currently learning web development and working on projects to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech I'm Learning
+HTML & CSS
+Javascript
+Git & GitHub
+
+Currently
+📚 Learning new technologies
+🛠️ Working on personal projects
+🌱 Improving my development skills
+
+Certifications
+[Responsive Web Design — freeCodeCamp](https://www.freecodecamp.org/certification/ramsha1412/responsive-web-design)
+
+Thanks for stopping by :)
