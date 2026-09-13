@@ -5,7 +5,7 @@ Hey, I'm Ramsha 👋
 I'm currently learning web development and working on projects to improve my skills.
 
 Tech I'm Learning:
-HTML & CSS
+HTML CSS &
 Javascript
 Git & GitHub
 
