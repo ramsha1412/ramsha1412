@@ -7,6 +7,7 @@ I'm currently learning web development and working on projects to improve my ski
 Tech I'm Learning:
 HTML CSS &
 Javascript
+React
 Git & GitHub
 
 Currently:
