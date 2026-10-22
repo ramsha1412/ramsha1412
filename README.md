@@ -15,7 +15,4 @@ Currently:
 🛠️ Working on personal projects
 🌱 Improving my development skills
 
-Certifications:
-[Responsive Web Design — freeCodeCamp](https://www.freecodecamp.org/certification/ramsha1412/responsive-web-design)
-
 Thanks for stopping by :)
