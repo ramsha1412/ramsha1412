@@ -8,6 +8,11 @@ Tech I'm Learning:
 HTML, CSS,
 Javascript,
 React,
+Node.js,
+Express.js,
+MongoDB,
+Python,
+SQL
 Git & GitHub
 
 Currently:
