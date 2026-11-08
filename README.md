@@ -46,16 +46,6 @@ alt="Ramsha's GitHub Contribution Activity Graph"
 </a>
 </p>
 
-🏆 GitHub Achievements
-
-<p align="center">
-<img
-src="https://gh-trophy.cdnsoft.net/?username=ramsha1412&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6"
-width="100%"
-alt="Ramsha's GitHub Profile Trophies"
-/>
-</p>
-
 ⭐ Repository Overview
 
 <p align="center">
@@ -65,13 +55,14 @@ alt="Ramsha's GitHub Profile Trophies"
 </a>
 </p>
 
-🚀 Featured Projects
+🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/ramsha1412?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+<a href="mailto:ramshaa1412@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </p>
+
 
 Check out my repositories to explore my projects, experiments, and development journey.
 
