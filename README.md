@@ -28,9 +28,8 @@ I'm a passionate student currently focused on web development. I enjoy building 
 
 📈 Contribution Activity Graph
 
-### 📈 Contribution Activity Graph
 
-![Ramsha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramsha1412&theme=github-dark&hide_border=true&area=true)
+![GitHub Contributions](https://ghchart.rshah.org/409ba5/ramsha1412)
 
 ⭐ Repository Overview
 
