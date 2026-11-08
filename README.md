@@ -29,7 +29,7 @@ I'm a passionate student currently focused on web development. I enjoy building 
 📈 Contribution Activity Graph
 
 
-![GitHub Contributions](https://ghchart.rshah.org/409ba5/ramsha1412)
+![GitHub Contributions](https://ghchart.rshah.org/39d353/ramsha1412)
 
 ⭐ Repository Overview
 
