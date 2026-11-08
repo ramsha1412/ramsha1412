@@ -38,14 +38,22 @@ I'm a passionate student currently focused on web development. I enjoy building 
 
 <p align="center">
 <a href="https://github.com/ramsha1412">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramsha1412&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=ramsha1412&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
+width="100%"
+alt="Ramsha's GitHub Contribution Activity Graph"
+/>
 </a>
 </p>
 
 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ramsha1412&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Profile Trophies"/>
+<img
+src="https://gh-trophy.cdnsoft.net/?username=ramsha1412&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6"
+width="100%"
+alt="Ramsha's GitHub Profile Trophies"
+/>
 </p>
 
 ⭐ Repository Overview
