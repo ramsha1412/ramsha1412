@@ -1,65 +1,47 @@
-👋 Hi, I'm Ramsha!
-💻 Student | Web Developer | Lifelong Learner
+👋 Hi, I'm Ramsha
 
-I'm a passionate student currently focused on web development. I enjoy building projects, exploring new technologies, solving problems, and continuously improving my development skills.
+Student | Web Developer | Lifelong Learner
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ramsha1412&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+I'm a student passionate about web development, building practical projects, and exploring new technologies. I enjoy solving problems and continuously improving my skills.
 
-🛠️ Languages & Technologies
+🛠️ Tech Stack
 
 <p align="center">
-<a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,postman" alt="My Tech Stack"/></a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,postman" alt="Tech Stack" />
 </p>
 
-📊 GitHub Analytics
+📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=ramsha1412&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Statistics"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ramsha1412&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most Used Languages"/>
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=ramsha1412&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ramsha1412&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
-🔥 GitHub Contributions & Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=ramsha1412&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com/?user=ramsha1412&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-📈 Contribution Activity Graph
-
-
-![GitHub Contributions](https://ghchart.rshah.org/39d353/ramsha1412)
-
-⭐ Repository Overview
+📈 Contribution Activity
 
 <p align="center">
-<img src="https://img.shields.io/badge/Public%20Repositories-GitHub-blue?style=for-the-badge&logo=github" alt="Public Repositories"/>
-<a href="https://github.com/ramsha1412?tab=repositories">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" alt="View Repositories"/>
-</a>
+<img src="https://ghchart.rshah.org/39d353/ramsha1412" alt="GitHub Contributions" />
 </p>
 
-🌐 Connect With Me
+🎯 Currently
+Improving my web development skills.
+Building practical projects.
+Exploring new technologies and open source.
+📫 Connect With Me
 
 <p align="center">
 <a href="mailto:ramshaa1412@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/ramsha1412">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
 </p>
 
-
-Check out my repositories to explore my projects, experiments, and development journey.
-
-💫 Current Goals
-🌱 Improving my web development skills.
-⚡ Building practical and creative projects.
-📚 Learning new tools and technologies.
-🤝 Exploring open-source contributions.
-🎯 Becoming a better problem solver and developer.
-
 <p align="center">
-### ✨ Thanks for visiting my profile!
-<br/>
-<b>Keep Learning • Keep Building • Keep Growing 🚀</b>
+<i>Keep Learning. Keep Building. Keep Growing.</i>
 </p>
