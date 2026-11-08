@@ -9,21 +9,21 @@ I am a passionate student currently focused on web development, building full-st
 ### 🧰 Tech Stack & Tools
 
 #### 🌐 Frontend Development
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![React](https://shields.io)
+![html5](https://shields.io)
+![css3](https://shields.io)
+![javascript](https://shields.io)
+![react](https://shields.io)
 
 #### ⚙️ Backend & Databases
-![NodeJS](https://shields.io)
-![Express.js](https://shields.io)
-![MongoDB](https://shields.io)
-![SQL](https://shields.io)
+![nodejs](https://shields.io)
+![express.js](https://shields.io)
+![mongodb](https://shields.io)
+![sql](https://shields.io)
 
 #### 🔧 Tools & Languages
-![Python](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+![python](https://shields.io)
+![git](https://shields.io)
+![github](https://shields.io)
 
 ---
 
