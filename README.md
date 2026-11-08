@@ -1,47 +1,72 @@
-# Hey, I'm Ramsha 👋
+👋 Hi, I'm Ramsha!
+💻 Student | Web Developer | Lifelong Learner
 
-### 🎓 Student | Learning & building things with code
+I'm a passionate student currently focused on web development. I enjoy building projects, exploring new technologies, solving problems, and continuously improving my development skills.
 
-I am a passionate student currently focused on web development, building full-stack applications, and refining my coding skills every day. Thanks for stopping by! 🚀
-
----
-
-### 🧰 Tech Stack & Tools
-
-#### 🌐 Frontend Development
-<img src="https://shields.io" alt="HTML5" height="24"/>
-<img src="https://shields.io" alt="CSS3" height="24"/>
-<img src="https://shields.io" alt="JavaScript" height="24"/>
-<img src="https://shields.io" alt="React" height="24"/>
-
-#### ⚙️ Backend & Databases
-<img src="https://shields.io" alt="NodeJS" height="24"/>
-<img src="https://shields.io" alt="ExpressJS" height="24"/>
-<img src="https://shields.io" alt="MongoDB" height="24"/>
-<img src="https://shields.io" alt="MySQL" height="24"/>
-
-#### 🔧 Tools & Languages
-<img src="https://shields.io" alt="Git" height="24"/>
-<img src="https://shields.io" alt="GitHub" height="24"/>
-<img src="https://shields.io" alt="VS Code" height="24"/>
-
----
-
-### ⚡ What I'm Up To
-* 📚 **Currently learning:** Advanced full-stack concepts, database optimization, and deployment strategies.
-* 🛠️ **Working on:** Building personal projects to solve real-world problems and strengthen my backend logic.
-* 📈 **Goal:** Constantly improving my development skills, writing clean code, and preparing for a career in tech.
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" alt="Ramsha's GitHub Stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Languages" height="180px" />
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ramsha1412&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
----
+🌐 Connect With Me
 
-### 🤝 Connect with Me
-* **Email:** ramshaa1412@gmail.com
+<p align="center">
+<a href="https://github.com/ramsha1412">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</p>
+
+🛠️ Languages & Technologies
+
+<p align="center">
+<a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,postman" alt="My Tech Stack"/></a>
+</p>
+
+📊 GitHub Analytics
+
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ramsha1412&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramsha1412&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+⭐ GitHub Contributions & Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ramsha1412&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+📈 Contribution Activity Graph
+
+<p align="center">
+<a href="https://github.com/ramsha1412">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramsha1412&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
+</a>
+</p>
+
+🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ramsha1412&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Profile Trophies"/>
+</p>
+
+🚀 Featured Projects
+
+<p align="center">
+<a href="https://github.com/ramsha1412?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+</a>
+</p>
+
+Check out my repositories to explore my projects, experiments, and development journey.
+
+💫 Current Goals
+🌱 Improving my web development skills.
+⚡ Building practical and creative projects.
+📚 Learning new tools and technologies.
+🤝 Exploring open-source contributions.
+🎯 Becoming a better problem solver and developer.
+
+<p align="center">
+### ✨ Thanks for visiting my profile!
+<br/>
+<b>Keep Learning • Keep Building • Keep Growing 🚀</b>
+</p>
