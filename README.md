@@ -10,23 +10,6 @@ I'm a student passionate about web development, building practical projects, and
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,postman" alt="Tech Stack" />
 </p>
 
-📊 GitHub Statistics
-
-<p align="center">
-<img height="160" src="https://github-stats-extended.vercel.app/api?username=ramsha1412&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ramsha1412&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=ramsha1412&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-📈 Contribution Activity
-
-<p align="center">
-<img src="https://ghchart.rshah.org/39d353/ramsha1412" alt="GitHub Contributions" />
-</p>
-
 🎯 Currently
 Improving my web development skills.
 Building practical projects.
