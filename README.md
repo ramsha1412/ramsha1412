@@ -9,13 +9,21 @@ I am a passionate student currently focused on web development, building full-st
 ### 🧰 Tech Stack & Tools
 
 #### 🌐 Frontend Development
-<img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" /> <img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="React" />
+<img src="https://shields.io" alt="HTML5" height="24"/>
+<img src="https://shields.io" alt="CSS3" height="24"/>
+<img src="https://shields.io" alt="JavaScript" height="24"/>
+<img src="https://shields.io" alt="React" height="24"/>
 
 #### ⚙️ Backend & Databases
-<img src="https://shields.io" alt="NodeJS" /> <img src="https://shields.io" alt="ExpressJS" /> <img src="https://shields.io" alt="MongoDB" /> <img src="https://shields.io" alt="MySQL" />
+<img src="https://shields.io" alt="NodeJS" height="24"/>
+<img src="https://shields.io" alt="ExpressJS" height="24"/>
+<img src="https://shields.io" alt="MongoDB" height="24"/>
+<img src="https://shields.io" alt="MySQL" height="24"/>
 
 #### 🔧 Tools & Languages
-<img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="GitHub" /> <img src="https://shields.io" alt="VS Code" />
+<img src="https://shields.io" alt="Git" height="24"/>
+<img src="https://shields.io" alt="GitHub" height="24"/>
+<img src="https://shields.io" alt="VS Code" height="24"/>
 
 ---
 
