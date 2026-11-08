@@ -9,13 +9,13 @@ I am a passionate student currently focused on web development, building full-st
 ### 🧰 Tech Stack & Tools
 
 #### 🌐 Frontend Development
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+<img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" /> <img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="React" />
 
 #### ⚙️ Backend & Databases
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+<img src="https://shields.io" alt="NodeJS" /> <img src="https://shields.io" alt="ExpressJS" /> <img src="https://shields.io" alt="MongoDB" /> <img src="https://shields.io" alt="MySQL" />
 
 #### 🔧 Tools & Languages
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+<img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="GitHub" /> <img src="https://shields.io" alt="VS Code" />
 
 ---
 
