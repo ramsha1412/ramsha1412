@@ -9,21 +9,13 @@ I am a passionate student currently focused on web development, building full-st
 ### 🧰 Tech Stack & Tools
 
 #### 🌐 Frontend Development
-![html5](https://shields.io)
-![css3](https://shields.io)
-![javascript](https://shields.io)
-![react](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 #### ⚙️ Backend & Databases
-![nodejs](https://shields.io)
-![express.js](https://shields.io)
-![mongodb](https://shields.io)
-![sql](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 #### 🔧 Tools & Languages
-![python](https://shields.io)
-![git](https://shields.io)
-![github](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 ---
 
@@ -44,4 +36,4 @@ I am a passionate student currently focused on web development, building full-st
 ---
 
 ### 🤝 Connect with Me
-* **Email:** [ramshaa1412@gmail.com]
+* **Email:** ramshaa1412@gmail.com
