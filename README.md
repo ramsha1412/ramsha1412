@@ -28,15 +28,9 @@ I'm a passionate student currently focused on web development. I enjoy building 
 
 📈 Contribution Activity Graph
 
-<p align="center">
-<a href="https://github.com/ramsha1412">
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=ramsha1412&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
-width="100%"
-alt="Ramsha's GitHub Contribution Activity Graph"
-/>
-</a>
-</p>
+### 📈 Contribution Activity Graph
+
+![Ramsha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramsha1412&theme=github-dark&hide_border=true&area=true)
 
 ⭐ Repository Overview
 
