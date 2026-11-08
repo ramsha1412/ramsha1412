@@ -7,14 +7,6 @@ I'm a passionate student currently focused on web development. I enjoy building 
 <img src="https://komarev.com/ghpvc/?username=ramsha1412&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-🌐 Connect With Me
-
-<p align="center">
-<a href="https://github.com/ramsha1412">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</p>
-
 🛠️ Languages & Technologies
 
 <p align="center">
