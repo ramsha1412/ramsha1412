@@ -24,28 +24,37 @@ I'm a passionate student currently focused on web development. I enjoy building 
 📊 GitHub Analytics
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ramsha1412&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Statistics"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramsha1412&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+<img src="https://github-stats-extended.vercel.app/api?username=ramsha1412&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Statistics"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ramsha1412&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most Used Languages"/>
 </p>
 
-⭐ GitHub Contributions & Streak
+🔥 GitHub Contributions & Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ramsha1412&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com/?user=ramsha1412&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 📈 Contribution Activity Graph
 
 <p align="center">
 <a href="https://github.com/ramsha1412">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramsha1412&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramsha1412&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph"/>
 </a>
 </p>
 
 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ramsha1412&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Profile Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ramsha1412&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Profile Trophies"/>
+</p>
+
+⭐ Repository Overview
+
+<p align="center">
+<img src="https://img.shields.io/badge/Public%20Repositories-GitHub-blue?style=for-the-badge&logo=github" alt="Public Repositories"/>
+<a href="https://github.com/ramsha1412?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" alt="View Repositories"/>
+</a>
 </p>
 
 🚀 Featured Projects
