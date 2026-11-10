@@ -1,21 +1,62 @@
-👋 Hi, I'm Ramsha
+👋 Hey, I'm Ramsha!
+Student | Aspiring Developer | Tech Enthusiast
 
-Student | Web Developer | Lifelong Learner
+I'm a passionate student who loves turning ideas into reality through code. I enjoy building interactive web applications, exploring new technologies, and solving real-world problems.
 
-I'm a student passionate about web development, building practical projects, and exploring new technologies. I enjoy solving problems and continuously improving my skills.
+🌱 Currently learning and improving my skills in web development.
+💡 Interested in creating practical and user-friendly applications.
+🔭 Working on personal projects to strengthen my development skills.
+🤝 Always open to learning, collaborating, and exploring new opportunities.
+⚡ Fun fact: I believe every bug is just another opportunity to learn!
+🛠️ Tech Stack & Tools
 
-🛠️ Tech Stack
+Languages & Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,postman" alt="Tech Stack" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python" />
 </p>
 
-🎯 Currently
-Improving my web development skills.
-Building practical projects.
-Exploring new technologies and open source.
-📫 Connect With Me
+Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+📊 GitHub Stats
 
 <p align="center">
-<i>Keep Learning. Keep Building. Keep Growing.</i>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+🎯 What I'm Up To
+📚 Strengthening my programming fundamentals.
+🚀 Building projects and experimenting with new technologies.
+🌐 Exploring full-stack development.
+🌟 Learning, growing, and contributing to the developer community.
+🤝 Let's Connect!
+
+I'm always happy to connect with fellow developers, students, and tech enthusiasts!
+
+<p align="center">
+<a href="https://github.com/ramsha1412">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="ramshaa1412@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+<p align="center">
+**✨ "Code. Create. Learn. Repeat." ✨**
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ramsha1412&style=flat-square&color=blue" alt="Profile Views" />
 </p>
