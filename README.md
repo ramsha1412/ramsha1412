@@ -13,7 +13,7 @@ I'm a passionate student who loves turning ideas into reality through code. I en
 Languages & Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 Backend & Database
