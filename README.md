@@ -56,7 +56,3 @@ I'm always happy to connect with fellow developers, students, and tech enthusias
 <p align="center">
 **✨ "Code. Create. Learn. Repeat." ✨**
 </p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ramsha1412&style=flat-square&color=blue" alt="Profile Views" />
-</p>
